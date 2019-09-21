@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="clear_button_text">clear</string>
+    <string name="blue_button_text">Blue</string>
+    <string name="red_button_text">Red</string>
+    <string name="menuname">Menu</string>
+    <string name="set_button">Set</string>
+    <string name="erase_button_text">Eraser</string>
+    <string name="screenshot_text">Save</string>
+</resources>
